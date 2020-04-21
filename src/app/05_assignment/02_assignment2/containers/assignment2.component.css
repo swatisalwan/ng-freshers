@@ -6,3 +6,16 @@
 .active {
   background-color: #0c5460;
 }
+#heading{
+   text-align: center;
+   font-family: cursive;
+   font-weight: bolder;
+   color: darkorchid;
+ }
+
+ #data{
+  
+  font-family: cursive;
+ 
+  
+}
